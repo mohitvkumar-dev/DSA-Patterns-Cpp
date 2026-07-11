@@ -19,6 +19,11 @@ This repository contains my pattern-wise Data Structures and Algorithms solution
 - Trees
 - Graphs
 - Dynamic Programming
+- Greedy
+- Trie
+- Bit-Manipulation
+- Math
+- Miscellaneous
 
 ## Language
 
